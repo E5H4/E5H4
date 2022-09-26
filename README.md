@@ -1,4 +1,4 @@
-🌌 hey! i'm esha!
+🌌 hey! i'm esha! \n
 🗯 i'm a junior majoring in CS.
 🃏 i've joined github to work on projects!
 🎸 ... to simply practice, enjoy, or collab ~
