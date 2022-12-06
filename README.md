@@ -4,7 +4,7 @@ Junior seeking a Bachelors of Computer Science at Cleveland State University
 <h2>👩‍💻 Uni projects:</h2>
 
 - <b>Java</b>
-  - projects here
+  - [Helicopter Navigation](https://github.com/E5H4/LocationsFX) (FX)
 - <b>C</b>
   - projects here
 - <b>Linux</b>
