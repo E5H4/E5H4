@@ -1,24 +1,27 @@
 <h1>Hi, I'm Esha !</h1>
 Junior seeking a Bachelors of Computer Science at Cleveland State University
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩‍💻 Uni projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (Java)</b>
-  - java projects and use parenthesis to put link
-- <b>C (.NET Desktop Applications)</b>
+- <b>Java</b>
   - projects here
-- <b>Linux
+- <b>C</b>
+  - projects here
+- <b>Linux</b>
   - projects here
 - <b>Python</b>
   - projects here
 
 
-<h2>Contact me:</h2>
+<h2>📫 Contact me:</h2>
 
-- <b>Email</b>
-  - attiqe06@outlook.com
+- <b>Email</b> : attiqe06@outlook.com
 - <b>[LinkedIn](https://www.linkedin.com/in/esha-attiq/)</b>
 
+<h2>🕷 Fun facts:</h2>
+
+- <b>Huge Marvel & DC fan</b>
+- <b>Sketch artist</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
