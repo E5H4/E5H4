@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esha !</h1>
+<h1>Hello, I'm Esha !</h1>
 Junior seeking a Bachelors of Computer Science at Cleveland State University
 
 <h2>👩‍💻 Uni projects:</h2>
@@ -6,8 +6,6 @@ Junior seeking a Bachelors of Computer Science at Cleveland State University
 - <b>Java</b>
   - [Helicopter Navigation](https://github.com/E5H4/LocationsFX) (FX)
 - <b>C</b>
-  - projects here
-- <b>Linux</b>
   - projects here
 - <b>Python</b>
   - projects here
@@ -20,8 +18,8 @@ Junior seeking a Bachelors of Computer Science at Cleveland State University
 
 <h2>🕷 Fun facts:</h2>
 
-- <b>Huge Marvel & DC fan</b>
-- <b>Sketch artist</b>
+- <b>Marvel & DC Enjoyer</b>
+- <b>Traditional/Digital Artist</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
