@@ -5,6 +5,7 @@ Junior seeking a Bachelors of Computer Science at Cleveland State University
 
 - <b>Java</b>
   - [Helicopter Navigation](https://github.com/E5H4/LocationsFX) (FX)
+  - [Vending Machine](https://github.com/E5H4/VendingFX) (FX)
 - <b>C</b>
   - projects here
 - <b>Python</b>
