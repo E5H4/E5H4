@@ -17,11 +17,6 @@ Junior seeking a Bachelors of Computer Science at Cleveland State University
 - <b>Email</b> : attiqe06@outlook.com
 - <b>[LinkedIn](https://www.linkedin.com/in/esha-attiq/)</b>
 
-<h2>🕷 Fun facts:</h2>
-
-- <b>Marvel & DC Enjoyer</b>
-- <b>Traditional/Digital Artist</b>
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
