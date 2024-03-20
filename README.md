@@ -1,7 +1,7 @@
 <h1>Hello, I'm Esha !</h1>
 Junior seeking a Bachelors of Computer Science at Cleveland State University
 
-<h2>👩‍💻 Uni projects:</h2>
+<!-- <h2>👩‍💻 Uni projects:</h2>
 
 - <b>Java</b>
   - [Helicopter Navigation](https://github.com/E5H4/LocationsFX) (FX)
