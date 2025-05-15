@@ -1,5 +1,5 @@
 <h1>Hello, I'm Esha !</h1>
-Senior seeking a Bachelors of Computer Science at Cleveland State University
+Bachelors of Computer Science Graduate from Cleveland State University
 
 <!-- <h2>👩‍💻 Uni projects:</h2>
 
