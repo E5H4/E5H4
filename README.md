@@ -3,7 +3,7 @@ Bachelors of Computer Science Graduate from Cleveland State University
 
 
 
-<b>Check out some of my cool projects in my pins below!<b>
+<h2> Check out some of my cool projects in my pins below!</h2>
 
 <!-- <h2>👩‍💻 Uni projects:</h2>
 
