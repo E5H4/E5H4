@@ -1,7 +1,7 @@
 <h1>Hello, I'm Esha </h1>
 Bachelors of Computer Science Graduate from Cleveland State University
 
-## Check out some of my cool projects in my pins below!
+<b>Check out some of my cool projects in my pins below!<b>
 
 <!-- <h2>👩‍💻 Uni projects:</h2>
 
