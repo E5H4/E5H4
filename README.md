@@ -2,15 +2,12 @@
 
 <!-- more info https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783 -->
 
-
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4dffe4&text=Welcome!&height=150&fontSize=60&desc=to%20Esha's%20GitHub&descAlignY=75&descAlign=60)
 <h1 align="center">
-  Welcome! I'm Esha
   <img src="https://img1.picmix.com/output/stamp/normal/6/1/3/7/1107316_79b70.gif" width="50"> 
 
 </h1>
-
 <!--<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
-
 <p align="center"><em>Bachelors of Computer Science | Cleveland State University | May 2025 </em>
 <p align="center"><em> Associates of Science | Cuyahoga Community College | May 2022 </em></p>
 
