@@ -2,40 +2,49 @@
 
 <!-- more info https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783 -->
 
-<h1>Hello, I'm Esha </h1>
-Bachelors of Computer Science Graduate from Cleveland State University
+
+<h1 align="center">
+  Welcome! I'm Esha
+  <img src="https://img1.picmix.com/output/stamp/normal/6/1/3/7/1107316_79b70.gif" width="50"> 
+
+</h1>
+
+<!--<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
+
+<p align="center"><em>Bachelors of Computer Science | Cleveland State University | May 2025 </em>
+<p align="center"><em> Associates of Science | Cuyahoga Community College | May 2022 </em></p>
+
+<p align="center">
+  <a href="https://github.com/E5H4">
+    <img src="https://img.shields.io/github/followers/esha?label=follow&style=social" alt="GitHub E5H4" />
+  </a>
+</p>
 
 
 
-<h2> Check out some of my cool projects in my pins below!</h2>
+<h2 align="center"> ⚡️ About Me </h2>
 
-<!-- <h2>👩‍💻 Uni projects:</h2>
+```javascript
+const esha = {
+  languages: {
+    frontend: [HTML, CSS, JavaScript],
+    backend: [Java, Python, C, C#, PHP, SQL]
+  },
+  toolsAndFrameworks: [
+    "React", "Vite", "Typescript", "Unity", "Expo/React Native",
+    "GitHub", "Jira", "Linux", "WebMethods"
+  ],
+  databases: [MySQL, "SQLite", "Microsoft SQL Server"],
+  currently: "Creating a portfolio using React, Vite, & JavaScript"
+};
 
-- <b>Java</b>
-  - [Helicopter Navigation](https://github.com/E5H4/LocationsFX) (FX)
-  - [Vending Machine](https://github.com/E5H4/VendingFX) (FX)
-- <b>C</b>
-  - projects here
-- <b>Python</b>
-  - projects here
+```
 
+---
 
-<h2>📫 Contact me:</h2>
+<h2 align="center"> 📈 GitHub Stats </h2>
 
-- <b>Email</b> : attiqe06@outlook.com
-- <b>[LinkedIn](https://www.linkedin.com/in/esha-attiq/)</b>
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E5H4&layout=compact&theme=nightowl&langs_count=9&border_color=61dafb&border_radius=10" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?
+  
+ <!-- <img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=E5H4&layout=compact&theme=rose_pine](https://github-readme-stats.vercel.app/api/pin/?username=E5H4&repo=m.e.-simulator&cache_seconds=86400&theme=nightowl)&langs_count=9&border_color=61dafb&border_radius=10" />
