@@ -1,3 +1,7 @@
+<!--![put a github repo on profile](https://github-readme-stats.vercel.app/api/pin/?username=E5H4&repo=m.e.-simulator&cache_seconds=86400&theme=nightowl)-->
+
+<!-- more info https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783 -->
+
 <h1>Hello, I'm Esha </h1>
 Bachelors of Computer Science Graduate from Cleveland State University
 
