@@ -31,7 +31,7 @@ const esha = {
     "React", "Vite", "Typescript", "Unity", "Expo/React Native",
     "GitHub", "Jira", "Linux", "WebMethods"
   ],
-  databases: [MySQL, "SQLite", "Microsoft SQL Server"],
+  databases: [MySQL, SQLite, Microsoft SQL Server],
   currently: "Creating a portfolio using React, Vite, & JavaScript"
 };
 
