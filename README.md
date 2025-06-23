@@ -28,7 +28,7 @@ const esha = {
     backend: [Java, Python, C, C#, PHP, SQL]
   },
   toolsAndFrameworks: [
-    "React", "Vite", "Typescript", "Unity", "Expo/React Native",
+    "React", "Next.js", "Vite", "Typescript", "Unity", "Expo/React Native",
     "GitHub", "Jira", "Linux", "WebMethods"
   ],
   databases: [MySQL, SQLite, Microsoft SQL Server],
