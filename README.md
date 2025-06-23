@@ -28,11 +28,12 @@ const esha = {
     backend: [Java, Python, C, C#, PHP, SQL]
   },
   toolsAndFrameworks: [
-    "React", "Next.js", "Vite", "Typescript", "Unity", "Expo/React Native",
+    "React", "Next.js", "Vite", "Typescript", "Figma", "Canva", "Unity", "Expo/React Native",
     "GitHub", "Jira", "Linux", "WebMethods"
   ],
   databases: [MySQL, SQLite, Microsoft SQL Server],
   currently: "Creating a portfolio using React, Vite, & JavaScript"
+  focus: "Front-End Web Development"
 };
 
 ```
